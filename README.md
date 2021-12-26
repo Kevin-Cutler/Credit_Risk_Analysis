@@ -14,18 +14,27 @@ _____________________________________________________________________
 
 
 ## Use Resampling Models to Predict Credit Risk
+________________________________________________________________
 
 ![image](https://user-images.githubusercontent.com/88467263/147421270-3e29dbb3-abec-4862-a24e-1710231f6747.png)
 
 
 
 ## Use the SMOTEENN Oversampling RandomOverSampler algorithm to Predict Credit Risk 
+___________________________________________________________________
 
 ![image](https://user-images.githubusercontent.com/88467263/147421302-40f4bcab-ee83-4a8d-a8f5-7c513daf2cd4.png)
 
 ## Use the SMOTEENN Undersampling ClusterCentroids algorithm to Predict Credit Risk 
+_______________________________________________________________________
 
 ![image](https://user-images.githubusercontent.com/88467263/147421325-49f03e0f-9bac-4e45-b857-a65f2e20de6e.png)
+
+## Use a Combinatorial approach of Over and Undersampling with the SMOTEENN algorithm  to Predict Credit Risk 
+_________________________________________________________________________________________________
+
+![image](https://user-images.githubusercontent.com/88467263/147421414-92a0552a-85c2-4c69-8ff3-b1f1c0491c45.png)
+
 
 
 ## Perform logistic regression: Use Ensemble Classifiers to Predict Credit Risk 
