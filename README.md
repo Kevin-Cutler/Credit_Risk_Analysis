@@ -50,7 +50,9 @@ ______________________________
 ![image](https://user-images.githubusercontent.com/88467263/147421530-49fe87e6-bc3a-43c1-94e1-4d15d11c3fb0.png)
 
 
-* Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+* Summary: Looking at the results of our data I feel that the Easy Ensemble performed the best with a 93% Accuracy and a 92% sensistivity when picking Actual High Risk applicants. Based on those results I would suggest we use this model but we will always look to tune our model to be even more efficient. The signficants in choosing a accurate model is vital to ensure that the company is accepting applicants that are less of a risk during their application process.
+
+
 
 
 
