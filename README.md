@@ -41,10 +41,12 @@ ________________________________________________________________________________
 
 
 ### BalancedRandomForestClassifier
+__________________________________________
 
 ![image](https://user-images.githubusercontent.com/88467263/147421511-73d3b2e5-3666-4a2b-a473-d0db219ecfc6.png)
 
 ### EasyEnsembleClassifier
+______________________________
 ![image](https://user-images.githubusercontent.com/88467263/147421530-49fe87e6-bc3a-43c1-94e1-4d15d11c3fb0.png)
 
 
